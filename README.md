@@ -1,4 +1,4 @@
-# Gabor-Filters-and-SVM-on-MNIST
+# Gabor Filters and SVM on MNIST
 This is the solution to the question given in SVM_Gabor_Question.pdf.
 ## Support Vector Machines
 Support Vector Machines are used to recognize digits from the MNIST dataset, given multiple constraints. I used gridsearch to find the best hyperparameter C for the SVM function.
