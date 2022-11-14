@@ -1,7 +1,7 @@
 # Gabor-Filters-and-SVM-on-MNIST
 This is the solution to the question given in SVM_Gabor_Question.pdf.
 ## Support Vector Machines
-Here I use Support Vector Machines to recognize digits from the MNIST dataset, given multiple constraints. I used gridsearch to find the best hyperparameter C for the SVM function.
+Support Vector Machines are used to recognize digits from the MNIST dataset, given multiple constraints. I used gridsearch to find the best hyperparameter C for the SVM function.
 
 ## Gabor Filter Banks
 The Gabor filter, named after Dennis Gabor, is a linear filter used in myriad of image processing application for edge detection, texture analysis, feature extraction, etc. A Gabor filter can be viewed as a sinusoidal signal of particular frequency and orientation, modulated by a Gaussian wave.
