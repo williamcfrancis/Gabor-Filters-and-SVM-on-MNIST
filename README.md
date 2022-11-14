@@ -16,12 +16,12 @@ A filter bank of 36 filters is created with multiple gabor filters created with 
 
 The filter bank was generated as shown.
 
-[filterbank](bank1.PNG)
+![filterbank](bank1.PNG)
 
 The filter bank with increased number of Gabor filters
 
-[filterbank](bank2.PNG)
+![filterbank](bank2.PNG)
 
 The training and validation accuracy on MNIST dataset with different PCA dimensions and different number of Gabor filter banks are as follows:
 
-[results](effect.PNG)
+![results](effect.PNG)
